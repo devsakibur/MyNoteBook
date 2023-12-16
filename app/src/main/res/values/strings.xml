@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Pencil Book</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_your_note">Add Your Note</string>
+    <string name="title_image_or_description_is_nessecary">title,image or description is nessecary</string>
+    <string name="this_feature_is_coming_soon_feel_free_to_drop_your_suggetion_at_dev_sakibur_gmail_com">This Feature Is Coming Soon..Feel Free to Drop your suggetion at dev.sakibur@gmail.com</string>
+</resources>
